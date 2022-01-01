@@ -1,0 +1,8 @@
+@media only screen and (max-width:430px) {
+    .nft-box-wrapper .box {
+        margin: 5px;
+        max-width: 120px;
+        min-width: 80px;
+        padding: 5px;
+    }
+}
