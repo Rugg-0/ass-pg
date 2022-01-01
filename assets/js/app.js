@@ -65,7 +65,7 @@ var tee = [
         weight: '10',
         occurrence: '47 in 10000 editions (0.47 %)'
     },
-    {
+      {
         trait: 'blue',
         weight: '10',
         occurrence: '44 in 10000 editions (0.44 %)'
@@ -144,6 +144,46 @@ var tee = [
         trait: 'pinky',
         weight: '10',
         occurrence: '35 in 10000 editions (0.35 %)'
+    },
+    {
+        trait: 'pink_black',
+        weight: '1',
+        occurrence: '4 in 10000 editions (0.04 %)'
+    },
+    {
+        trait: 'purple',
+        weight: '10',
+        occurrence: '53 in 10000 editions (0.53 %)'
+    },
+    {
+        trait: 'purple_green',
+        weight: '10',
+        occurrence: '41 in 10000 editions (0.41 %)'
+    },
+    {
+        trait: 'red',
+        weight: '1000',
+        occurrence: '4448 in 10000 editions (44.48 %)'
+    },
+    {
+        trait: 'solana',
+        weight: '1000',
+        occurrence: '4676 in 10000 editions (46.76 %)'
+    },
+    {
+        trait: 'white',
+        weight: '1',
+        occurrence: '2 in 10000 editions (0.02 %)'
+    },
+    {
+        trait: 'yellow',
+        weight: '1',
+        occurrence: '6 in 10000 editions (0.06 %)'
+    },
+    {
+        trait: 'yellow_black',
+        weight: '10',
+        occurrence: '48 in 10000 editions (0.48 %)'
     }
 ];
 
